@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import Form from "./component/Form";
 import "./App.css";
 import Nav from "./component/Nav";

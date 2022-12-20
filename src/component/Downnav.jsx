@@ -1,29 +1,29 @@
 import React from "react";
 import Logo from "../iimages/Logo.svg";
 const Downnav = () => {
-  const obj = [
-    {
-      title: "home",
-    },
-    {
-      title: "about",
-    },
-    {
-      title: "courses",
-    },
-    {
-      title: "placements",
-    },
-    {
-      title: "library",
-    },
-    {
-      title: "notice",
-    },
-    {
-      title: " more",
-    },
-  ];
+  // const obj = [
+  //   {
+  //     title: "home",
+  //   },
+  //   {
+  //     title: "about",
+  //   },
+  //   {
+  //     title: "courses",
+  //   },
+  //   {
+  //     title: "placements",
+  //   },
+  //   {
+  //     title: "library",
+  //   },
+  //   {
+  //     title: "notice",
+  //   },
+  //   {
+  //     title: " more",
+  //   },
+  // ];
 
   return (
     <div className="flex flex-row  h-20 w-full shadow-lg shadow-gray-400 items-center">
@@ -32,7 +32,7 @@ const Downnav = () => {
     "
       >
         <div>
-          <img src={Logo} />
+          <img src={Logo} alt="logo" />
         </div>
 
         <div>
